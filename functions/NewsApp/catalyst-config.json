@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "newsapp",
+		"stack": "node18",
+		"type": "cron",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

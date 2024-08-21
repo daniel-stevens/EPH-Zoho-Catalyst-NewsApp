@@ -1,0 +1,9 @@
+{
+	"name": "newsapp",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "emma@zylker.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
